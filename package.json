@@ -7,6 +7,11 @@
     "type": "git",
     "url": "https://github.com/subashkarki68/MarkdownPrev"
   },
+  "pnpm": {
+    "overrides": {
+      "vfile": "^7.0.0"
+    }
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
