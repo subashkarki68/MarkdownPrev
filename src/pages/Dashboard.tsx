@@ -6,7 +6,6 @@ export default function Dashboard() {
       <PageHeader>
         <PageHeaderHeading>Dashboard</PageHeaderHeading>
       </PageHeader>
-      <DragAndDrop />
     </>
   );
 }
